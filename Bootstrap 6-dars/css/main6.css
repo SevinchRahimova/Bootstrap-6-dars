@@ -1,0 +1,95 @@
+.first{
+    background: linear-gradient(120deg, #e50b62,rebeccapurple);
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+}
+.ss{
+    font-size: 50px;
+}
+.blue1{
+    background: linear-gradient(140deg,deepskyblue, #0608a5);
+    color: white;
+    border-radius: 20px ;
+}
+.blue{
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 20px;
+    font-weight: bold;
+    color: dodgerblue;
+
+}
+.orrrr{
+    border: 2px solid orange;
+    border-radius: 20px;
+    font-weight: bold;
+    color: orange;
+}
+.xzz{
+    border-radius: 20px ;
+    background: linear-gradient(90deg,mediumvioletred,purple);
+}
+.or{
+    background: linear-gradient(120deg,orange,mediumvioletred);
+    border-radius: 20px ;
+}
+
+.xxzz{
+    position: relative;
+    font-size: 20px;
+}
+.p{
+    width: 130px;
+    background-color: white;
+    text-align: center;
+    color: #07e0a2;
+    font-weight: bold;
+    height: 30px;
+    position: relative;
+    left: 933px;
+    bottom: 594px;
+    font-size: 13px;
+    padding-top: 5px;
+    padding-right: 10px;
+    right: 120px;
+    transform: rotate(50deg);
+}
+.xxx{
+    background: linear-gradient(120deg,#b417f6, #7604f8 );
+    border-radius: 20px;
+    font-weight: bold;
+}
+.orr{
+    border: 1px solid pink;
+    color: pink;
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: white;
+}
+.purple{
+    border-radius: 20px;
+    border: 2px solid mediumpurple;
+    background-color: white;
+    color: mediumpurple;
+    font-weight: bold;
+}
+.tr1{
+    background-color: #e3e3e3;
+}
+.tr2{
+    background-color: #e3e3e3;
+}
+.tr3{
+    background-color: #e3e3e3;
+}
+.orrr{
+    background-color: white;
+}
+.geet{
+    background-color: white;
+    color: grey;
+}
+.bir{
+    margin-bottom: 50px;
+}
